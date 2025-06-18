@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 # 👋 Hi, I'm Arka Singha
 
 🎓 **B.Tech in Electronics and Computer Science, KIIT University**  
