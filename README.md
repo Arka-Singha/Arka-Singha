@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Arka Singha
 
 🎓 **B.Tech in Electronics and Computer Science, KIIT University**  
-📍 India | 📬 singhaarka0@gmail.com | 📞 +91 9635916616  
+📍 India | 📬 singhaarka0@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/arka-singha-99413225b) | [GitHub](https://github.com/Arka-Singha) | [Opengenus Author Page](https://iq.opengenus.org/author/arka/)
 
 ---
